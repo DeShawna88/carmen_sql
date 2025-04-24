@@ -6,7 +6,7 @@
 -- In case there is already a computers table, drop it
 
 -- Create a computers table
-
+-- CREATE TABLE computers (id SERIAL, make VARCHAR(20), model VARCHAR(20), cpu_speed VARCHAR(20), memory_size VARCHAR(20), price INT, release_date TIMESTAMP, photo_url VARCHAR(20), storage_amount VARCHAR(20), number_usb_ports INT, number_firewire_ports INT, number_thunderbolt_ports INT);
 
 -- The table should have id, make, model, cpu_speed, memory_size,
 --  price, release_date, photo_url, storage_amount, number_usb_ports,

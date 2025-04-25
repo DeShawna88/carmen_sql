@@ -1,5 +1,5 @@
 -- 1. The average square footage of all offices.
-
+SELECT AVG(sq_ft) FROM office;
 
 -- 2. The total number of apartments.
 
